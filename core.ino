@@ -27,5 +27,5 @@ void loop() {
   Serial.println(" ");
   Serial.println();
 
-delay(5000); //Tiempo de espera de impresión
+  delay(5000); //Tiempo de espera de impresión
 }
