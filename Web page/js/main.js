@@ -1,3 +1,7 @@
+function myalert() { 
+    alert("Irrigation succesfuly!"); 
+}
+
 /** Sticky navigation */
 
 let navbar = $(".navbar");

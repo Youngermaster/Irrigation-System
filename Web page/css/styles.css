@@ -152,7 +152,7 @@ header .container .col-md-7 button {
 .cover {
     width: 100%;
     height: 55vmin;
-    background: url(../assets/images/Wallpapers/saint-mary-lake-glacier-2.jpg);
+    background: url(../assets/images/Wallpapers/903837-download-background-hd-1920x1080-green-1920x1080-for-android-40.jpg);
     background-position: -24rem -19rem;
     background-size: 150%;
     position: relative;
@@ -181,12 +181,12 @@ header .container .col-md-7 button {
     position: relative;
     z-index: 1;
     background: white;
-    width: 17rem;
-    height: 12rem;
+    width: 25rem;
+    height: 20rem;
     padding-top: 3.5vmin;
     margin: 1rem;
     border-radius: 0.5em;
-    box-shadow: 1px 2px 50px 0px rgba(255, 0, 0, 0.349);
+    box-shadow: 26px 25px 48px 10px rgba(255, 0, 0, 0.349);
 }
 
 .numbers {
@@ -347,6 +347,11 @@ footer .column i {
 
 footer .column i + i {
     padding: 0 0.5em;
+}
+
+.irrigation-button
+{
+    cursor: pointer;
 }
 
 /** Stycky class */
