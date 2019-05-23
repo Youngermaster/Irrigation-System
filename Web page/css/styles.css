@@ -16,8 +16,8 @@ header, section {
     --Lobster: "Lobster", cursive;
     --Acme: "Acme", cursive;
     --light-black: #2e2c2caf;
-    --bggradient: linear-gradient(to bottom, 
-        #dd2476, #ff512f);
+    --bggradient: linear-gradient(to top, 
+        #ffffff, #169B1E, #2BAB27, #2BAB27);
     --light-gray: rgba(255, 255, 255, 0.75);
 }
 
@@ -167,13 +167,13 @@ header .container .col-md-7 button {
 
 .cover .content > h1 {
     font-family: var(--Patua);
-    font-size: 6vmin;
+    font-size: 7vmin;
     color: whitesmoke;
 }
 
 .cover .content > p {
     font-family: var(--Rubik);
-    font-size: 2vmin;
+    font-size: 3vmin;
     color: #e5e5e5;
 }
 
@@ -186,7 +186,7 @@ header .container .col-md-7 button {
     padding-top: 3.5vmin;
     margin: 1rem;
     border-radius: 0.5em;
-    box-shadow: 26px 25px 48px 10px rgba(255, 0, 0, 0.349);
+    box-shadow: 26px 25px 48px 10px #169B1E;
 }
 
 .numbers {
@@ -244,109 +244,6 @@ header .container .col-md-7 button {
 .card-body .pricing > h1 {
     font-size: 10vmin;
     padding: 1em 0.5em;
-}
-
-/* Section 3 */
-
-.section-3 {
-    height: 70vmin;
-    margin-top: 15vmin;
-    background: var(--bggradient);
-}
-
-.section-3 .col-md-12 > h1 {
-    padding: 2em 0 0.5em 0;
-    color: whitesmoke;
-    font-size: 6vmin;
-}
-
-.section-3 .col-md-12 > p {
-    padding: 0 4em;
-    padding-bottom: 2em;
-    color: var(--light-gray);
-    font-size: 3vmin;
-}
-
-.section-3 .desktop {
-    background: white;
-    display: inline-block;
-    border-radius: 3rem;
-    padding: 2vmin 4.5vmin;
-    margin: 1rem;
-}
-
-.section-3 .desktop h3 {
-    font-size: 4vmin;
-}
-
-.section-3 .desktop p {
-    font-size: 2vmin;
-}
-
-/* Section 4*/
-
-.section-4 .container h1 {
-    font-size: 6vmin;
-    padding-top: 14vmin;
-}
-
-.section-4 .team {
-    padding: 10vmin 4vmin;
-}
-
-.section-4 .card {
-    width: 22rem;
-    margin-top: 10vmin;
-}
-
-.section-4 .card .card-text {
-    padding: 0.5em;
-}
-
-.section-4 .card .card-body > a {
-    font-size: 1.5em;
-}
-
-.section-4 .carousel-item {
-    padding-left: 3rem;
-}
-
-.border-radius {
-    border-radius: 340px;
-    width: 60%;
-}
-
-/* Footer */
-
-footer {
-    background: rgba(0, 0, 0, 0.8);
-    overflow-x: hidden;
-    padding: 14vmin 18vmin;
-}
-
-footer p > span {
-    color: #FF512F;
-}
-
-footer input {
-    border: none !important;
-}
-
-footer input::placeholder {
-    color: white !important;
-}
-
-footer .input-group .input-group-text {
-    background: var(--bggradient);
-    border: none;
-}
-
-footer .column i {
-    color: #dd2476;
-}
-
-footer .column i + i {
-    padding: 0 0.5em;
 }
 
 .irrigation-button
