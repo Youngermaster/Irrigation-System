@@ -52,6 +52,10 @@ header {
     text-decoration: none;
 }
 
+.navbar-brand:hover {
+    color: rgb(255, 187, 0);
+}
+
 .dropdown:hover .dropdown-content {
     display: block;
 }
