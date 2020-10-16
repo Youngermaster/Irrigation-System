@@ -8,7 +8,7 @@ This video show you how this project worked.
 
 [video](https://youtube.com)
 
-### Prize
+## Prize
 
 We also won the third place on **Expo-Ingenierías 2019-1**  with this project.
 
@@ -24,6 +24,6 @@ We also won the third place on **Expo-Ingenierías 2019-1**  with this project.
     <img src=".github/prize.jpeg" alt="Expo Ingenierias premios" height="500">
 </p>
 
-### [Disclaimer]
+## [Disclaimer]
 
 This repository is not longer maintained
